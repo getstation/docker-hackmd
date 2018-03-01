@@ -1,1 +1,3 @@
 kubernetes/chart/charts/*.tgz
+
+/.idea

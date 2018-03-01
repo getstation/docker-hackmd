@@ -1,7 +1,7 @@
 FROM node:6.13.0-alpine
 
 # Build arguments to change source url, branch or tag
-ARG HACKMD_REPOSITORY=https://github.com/hackmdio/hackmd.git
+ARG HACKMD_REPOSITORY=https://github.com/getstation/hackmd.git
 ARG VERSION=master
 
 # Set some default config variables
