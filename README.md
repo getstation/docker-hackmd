@@ -1,18 +1,8 @@
 docker-hackmd
 ===
 
-[![Build Status](https://travis-ci.org/station/hackmd.svg?branch=master)](https://travis-ci.org/station/hackmd)
+[![Build Status](https://travis-ci.org/getstation/docker-hackmd.svg?branch=master)](https://travis-ci.org/getstation/docker-hackmd)
 [![Gitter](https://badges.gitter.im/hackmdio/hackmd.svg)](https://gitter.im/hackmdio/hackmd?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge)
-
-**Debian based version:**
-
-[![](https://images.microbadger.com/badges/version/hackmdio/hackmd:latest.svg)](https://microbadger.com/images/hackmdio/hackmd "Get your own version badge on microbadger.com") [![](https://images.microbadger.com/badges/image/hackmdio/hackmd:latest.svg)](https://microbadger.com/images/hackmdio/hackmd "Get your own image badge on microbadger.com")
-
-
-**Alpine based version:**
-
-[![](https://images.microbadger.com/badges/version/hackmdio/hackmd:alpine.svg)](https://microbadger.com/images/hackmdio/hackmd:alpine "Get your own version badge on microbadger.com") [![](https://images.microbadger.com/badges/image/hackmdio/hackmd:alpine.svg)](https://microbadger.com/images/hackmdio/hackmd:alpine "Get your own image badge on microbadger.com")
-
 
 # Prerequisite
 * git (https://git-scm.com/)
