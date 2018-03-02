@@ -27,7 +27,7 @@ See more here: https://docs.docker.com/
 ## Get started
 
 1. Install docker and docker-compose, "Docker for Windows" or "Docker for Mac"
-2. Run `git clone https://github.com/hackmdio/docker-hackmd.git`
+2. Run `git clone https://github.com/getstation/docker-hackmd.git`
 3. Change to the directory `docker-hackmd` directory
 4. Run `docker-compose up` in your terminal
 5. Wait until see the log `HTTP Server listening at port 3000`, it will take few minutes based on your internet connection.
